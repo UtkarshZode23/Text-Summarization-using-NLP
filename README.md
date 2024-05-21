@@ -1,5 +1,10 @@
 # Text-Summarization-using-NLP
 
+Project Description:
+The project mainly focuses on reliable abstractive text summary in which they 
+interpret and examine the text using natural language techniques to generate a shorter 
+text and conveys the most essential information from the original text.
+
 Instructions: 
 Extract the SUMMARIZATION.zip folder.
 Inside that SUMMARIZATION.zip folder open the notebook folder.
